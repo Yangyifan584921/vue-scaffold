@@ -1,4 +1,4 @@
-# school-program
+# vue-scaffold
 
 ## Project setup
 ```
